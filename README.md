@@ -13,7 +13,7 @@ So i thought to give it a try.
 
 ## Links
 
-- Youtube CrashCourse: [Cargo docs](https://doc.rust-lang.org/beta/cargo/index.html).
+- Cargo documentation: [Cargo docs](https://doc.rust-lang.org/beta/cargo/index.html).
 - Youtube CrashCourse: [Rust Crash Coruse | Rustlang by Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw).  
 *As i find interesting links, i will put them here*
 

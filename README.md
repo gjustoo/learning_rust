@@ -7,13 +7,17 @@ So i thought to give it a try.
 ## My objectives
 
 - Learn the basics
-- Create an small program
+- Learn ownership and borrowing
+- Learn concurrency
+- Create a small program
 - Create small project
 - Learn web frameworks ( Rocket?)
+
+## Completed objectives:
+    - Basic sintax
 
 ## Links
 
 - Cargo documentation: [Cargo docs](https://doc.rust-lang.org/beta/cargo/index.html).
 - Youtube CrashCourse: [Rust Crash Coruse | Rustlang by Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw).  
 *As i find interesting links, i will put them here*
-

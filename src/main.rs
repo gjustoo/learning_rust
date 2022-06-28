@@ -4,7 +4,13 @@
 // mod strings;
 // mod tuples;
 // mod arrays;
-mod vectors;
+// mod vectors;
+// mod conditionals;
+// mod functions;
+// mod pointer_ref;
+// mod strucs;
+// mod enums;
+mod cli;
 fn main() {
     // print::run();
     // vars::run();
@@ -12,5 +18,10 @@ fn main() {
     // strings::run();
     // tuples::run();
     // arrays::run();
-    vectors::run();
+    // vectors::run();
+    // conditionals::run();
+    // pointer_ref::run();
+    // strucs::run();
+    // enums::run();
+    cli::run();
 }

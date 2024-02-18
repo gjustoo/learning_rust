@@ -1,4 +1,5 @@
-# LEARNING RUST BY MYSELF
+# DROPPED! 
+##LEARNING RUST BY MYSELF
 
 Hi, im following a youtube crash course for Rust lang.  
 I've heard about Rust a while ago,  and I find pretty interesting that it doesn't have any garbage collector.
